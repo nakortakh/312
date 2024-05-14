@@ -232,7 +232,7 @@
   [Опции](https://rollupjs.org/configuration-options/ "https://rollupjs.org/configuration-options/") для сборщика rollup, который используется в build сборке
   <br>
 
-- [`rollupOptions: RollupCommonJSOptions`](https://vitejs.dev/config/build-options.html#build-commonjsoptions "https://vitejs.dev/config/build-options.html#build-commonjsoptions") <br>
+- [`commonjsOptions: RollupCommonJSOptions`](https://vitejs.dev/config/build-options.html#build-commonjsoptions "https://vitejs.dev/config/build-options.html#build-commonjsoptions") <br>
   [Опции](https://github.com/rollup/plugins/tree/master/packages/commonjs#options "https://github.com/rollup/plugins/tree/master/packages/commonjs#options") для плагина rollup @rollup/plugin-commonjs
   <br>
 
