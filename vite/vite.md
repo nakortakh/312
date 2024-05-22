@@ -1,5 +1,8 @@
 Vite (произносится как `вите`) - новый инструмент сборки, вдохновителем которого является Evan Vue (создатель фреймврока Vue)
 
+https://vitejs.dev/
+https://vitejs.ru/
+
 v 5.2.11 Vite:
 
 - для dev режима использует под капотом esbuild - https://www.npmjs.com/package/esbuild
