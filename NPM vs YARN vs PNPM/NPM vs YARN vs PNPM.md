@@ -134,12 +134,12 @@ npm/pnpm install with cache and node_modules and lock file
 npm/pnpm install with cache and lock file and without node_modules    
 | npm                         | pnpm                       |
 | --------------------------- | -------------------------- |
-| ![npm install with cache and lock file and without node_modules](https://github.com/VitekShuk/articles/blob/main/NPM%20vs%20YARN%20vs%20PNPM/imgs/npm%20install%20with%20cache%20and%20without%20node_modules.JPG) | ![pnpm install with cache and lock file and without node_modules](https://github.com/VitekShuk/articles/blob/main/NPM%20vs%20YARN%20vs%20PNPM/imgs/pnpm%20install%20without%20node_modules%20and%20with%20lock%20file%20and%20cache.JPG) |
+| ![npm install with cache and lock file and without node_modules](https://github.com/nakortakh/312/blob/main/NPM%20vs%20YARN%20vs%20PNPM/imgs/npm%20install%20with%20cache%20and%20without%20node_modules.JPG) | ![pnpm install with cache and lock file and without node_modules](https://github.com/nakortakh/312/blob/main/NPM%20vs%20YARN%20vs%20PNPM/imgs/pnpm%20install%20without%20node_modules%20and%20with%20lock%20file%20and%20cache.JPG) |
 
 npm/pnpm install without cache and node_modules and lock file
 | npm                         | pnpm                       |
 | --------------------------- | -------------------------- |
-| ![npm install without cache and node_modules and lock file](https://github.com/VitekShuk/articles/blob/main/NPM%20vs%20YARN%20vs%20PNPM/imgs/npm%20install%20without%20all.JPG) |  ![pnpm install without cache and node_modules and lock file](https://github.com/VitekShuk/articles/blob/main/NPM%20vs%20YARN%20vs%20PNPM/imgs/pnpm%20install%20without%20cache%20and%20node_modules%20and%20lock%20file.JPG) |
+| ![npm install without cache and node_modules and lock file](https://github.com/nakortakh/312/blob/main/NPM%20vs%20YARN%20vs%20PNPM/imgs/npm%20install%20without%20all.JPG) |  ![pnpm install without cache and node_modules and lock file](https://github.com/nakortakh/312/blob/main/NPM%20vs%20YARN%20vs%20PNPM/imgs/pnpm%20install%20without%20cache%20and%20node_modules%20and%20lock%20file.JPG) |
 
 
 ## Деплой на среды
