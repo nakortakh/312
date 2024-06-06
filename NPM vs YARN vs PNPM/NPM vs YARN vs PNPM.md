@@ -123,7 +123,7 @@ TheBestOfTheBestProject
 - lock file и cache
 - lock file, cache и node_modules
 
-![benchmarks](https://github.com/VitekShuk/articles/blob/main/NPM%20vs%20YARN%20vs%20PNPM/imgs/thumbnail-benchmarks-js-pm.png)
+![benchmarks](https://github.com/nakortakh/312/blob/main/NPM%20vs%20YARN%20vs%20PNPM/imgs/thumbnail-benchmarks-js-pm.png)
 
 ### На примере установки зависимостей в мф ufo-services-front
 npm/pnpm install with cache and node_modules and lock file     
