@@ -105,17 +105,67 @@ TheBestOfTheBestProject
 - Кэш должен находится на одном диске с проектом
 
 ## Cравнение команд между npm, yarn и pnpm.
-| npm команда                 | yarn команда               | pnpm аналог                |
-| --------------------------- | -------------------------- | -------------------------- |
-| npm install                 | yarn                       | pnpm install               |
-| npm install [module_name]   | yarn add [module_name]     | pnpm add [module_name]     |
-| npm uninstall [module_name] | yarn remove [module_name]  | pnpm remove [module_name]  |
-| npm update                  | yarn upgrade               | pnpm update                |
-| npm list                    | yarn list                  | pnpm list                  |
-| npm run [scriptName]        | yarn [scriptName]          | pnpm [scriptName]          |
-| npx [command]               | yarn dlx [command]         | pnpm dlx [command]         |
-| npm exec                    | yarn exec [commandName]    | pnpm exec [commandName]    |
-| npm init [initializer]      | yarn create [initializer]  | pnpm create [initializer]  |
+<table>
+  <thead>
+    <tr>
+      <th>
+        npm команда
+      </th>
+      <th>
+        yarn команда
+      </th>
+      <th>
+        pnpm команда
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        npm install
+      </td>
+      <td>
+        yarn
+      </td>
+      <td>
+        pnpm install
+      </td>
+    </tr>
+    <tr>
+      <td>
+        npm install [module_name]
+      </td>
+      <td>
+        yarn add [module_name]
+      </td>
+      <td>
+        pnpm add [module_name]
+      </td>
+    </tr>
+    <tr>
+      <td>
+        npm run [scriptName]
+      </td>
+      <td>
+        yarn [scriptName]
+      </td>
+      <td>
+        pnpm [scriptName]
+      </td>
+    </tr>
+     <tr>
+      <td>
+        npx [command]
+      </td>
+      <td>
+        yarn dlx [command]
+      </td>
+      <td>
+        pnpm dlx [command]
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Скорость установки пакетов
 В большей степени нас интересуют моменты, когда у нас есть:
