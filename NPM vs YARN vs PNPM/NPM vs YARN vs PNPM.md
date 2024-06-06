@@ -129,7 +129,7 @@ TheBestOfTheBestProject
 npm/pnpm install with cache and node_modules and lock file     
 | npm                         | pnpm                       |
 | --------------------------- | -------------------------- |
-| ![npm install with cache and node_modules and lock file](https://github.com/VitekShuk/articles/blob/main/NPM%20vs%20YARN%20vs%20PNPM/imgs/npm%20install%20with%20cache%20and%20lock%20file%20and%20node_modules.JPG)                 | ![pnpm install with cache and node_modules and lock file](https://github.com/VitekShuk/articles/blob/main/NPM%20vs%20YARN%20vs%20PNPM/imgs/pnpm%20install%20with%20cache%20and%20node_modules%20and%20lock%20file.JPG) |
+| ![npm install with cache and node_modules and lock file](https://github.com/nakortakh/312/blob/main/NPM%20vs%20YARN%20vs%20PNPM/imgs/npm%20install%20with%20cache%20and%20lock%20file%20and%20node_modules.JPG)                 | ![pnpm install with cache and node_modules and lock file](https://github.com/nakortakh/312/blob/main/NPM%20vs%20YARN%20vs%20PNPM/imgs/pnpm%20install%20with%20cache%20and%20node_modules%20and%20lock%20file.JPG) |
 
 npm/pnpm install with cache and lock file and without node_modules    
 | npm                         | pnpm                       |
