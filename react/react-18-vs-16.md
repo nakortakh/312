@@ -296,14 +296,14 @@ function Page({commentsPromise}) {
 
 ## Статьи:
 
-https://habr.com/ru/articles/519824/
+[React 17: Ничего нового?](https://habr.com/ru/articles/519824/)
 
-https://habr.com/ru/companies/domclick/articles/689152/
+[Основные изменения React 18](https://habr.com/ru/companies/domclick/articles/689152/)
 
-https://habr.com/ru/articles/660333/
+[React 18. Что нового?](https://habr.com/ru/articles/660333/)
 
-https://habr.com/ru/articles/659537/
+[React 18](https://habr.com/ru/articles/659537/)
 
-https://purpleschool.ru/community/post/novye-vozmozhnosti-i-uluchsheniya-v-react-19-beta-obzor-obnovleniy-i-optimizaciya-perehoda
+[Новые возможности и улучшения в React 19 Beta: обзор обновлений и оптимизация перехода](https://purpleschool.ru/community/post/novye-vozmozhnosti-i-uluchsheniya-v-react-19-beta-obzor-obnovleniy-i-optimizaciya-perehoda)
 
-https://proglib.io/p/react-19-unichtozhit-vse-freymvorki-2024-04-23
+[React 19 уничтожит все фреймворки](https://proglib.io/p/react-19-unichtozhit-vse-freymvorki-2024-04-23)
